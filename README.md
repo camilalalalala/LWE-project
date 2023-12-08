@@ -1,3 +1,4 @@
+#LWE
 Para correr el código debe de tener las siguientes librerías instaladas:
 
 - Numpy
